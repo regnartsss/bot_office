@@ -5,4 +5,4 @@ __pycache__/
 *.json
 /venv/
 data/config.py
-*.db
+*.env
