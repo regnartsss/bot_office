@@ -1,8 +1,8 @@
 from aiogram import Bot, Dispatcher, types
 import asyncio
 import logging
+from config import BOT_TOKEN
 
-BOT_TOKEN = "6220347577:AAFaM7ve2IPpbMNpe1yvZo6KfelDNzhYo_s"
 import handler
 
 
